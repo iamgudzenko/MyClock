@@ -36,7 +36,7 @@ class CustomClock @JvmOverloads constructor(
         private const val minuteArrowWidth = 0.015f
         private const val secondsArrowWidth = 0.01f
 
-        private const val shadowLayerSize = 0.02f
+        private const val shadowLayerSize = 0.015f
 
     }
     private var distToCenter = 0f
